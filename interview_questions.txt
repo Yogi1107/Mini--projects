@@ -1,0 +1,9 @@
+What is python?
+Why python is called as a dynamic programming language?
+why python is called as a interpreter programming language?
+what is difference between compiler and interpreter?
+Whta is difference between high-level and low-level programming language?
+What is application of python?
+What is features of python?
+What is data types?
+What are the types of data types?
